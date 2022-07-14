@@ -1,6 +1,7 @@
 # Sudo
 Simply run commands as other players, or chat as them.
 sudo：Simply run commands as other players, or chat as them.
+You can download snapshot here: [Sudo - Cloudburst Nukkit Forum](https://cloudburstmc.org/resources/sudo.813/)
 Just like this: [Sudo | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/sudo.13730/)
 
 ## How do I use sudo?
