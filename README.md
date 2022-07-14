@@ -9,9 +9,11 @@ Just like this: [Sudo | SpigotMC - High Performance Minecraft](https://www.spigo
 
 ## How do I use sudo?
 
-/sudo <player> <input>.
+---
+/sudo <player> <input>
   
 /sudo <player> /<command>
+---
 
 ## Example in game:
   
