@@ -8,12 +8,11 @@ You can download snapshot here: [Sudo - Cloudburst Nukkit Forum](https://cloudbu
 Just like this: [Sudo | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/sudo.13730/)
 
 ## How do I use sudo?
-
----
+```
 /sudo <player> <input>
-  
+
 /sudo <player> /<command>
----
+```
 
 ## Example in game:
   
