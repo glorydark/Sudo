@@ -15,5 +15,5 @@ Just like this: [Sudo | SpigotMC - High Performance Minecraft](https://www.spigo
 Op / Console
 
 ## You can also use it in console like this:
-[](pic.png)
-[](pic1.png)
+![](pic.png)
+![](pic1.png)
